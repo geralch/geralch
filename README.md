@@ -2,4 +2,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geralch&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geralch&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geralch&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geralch&theme=monokai&utcOffset=-5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geralch&theme=monokai)
